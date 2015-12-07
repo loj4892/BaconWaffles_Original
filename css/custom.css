@@ -1,0 +1,94 @@
+/* custom.css */
+
+body {
+    background-color: #1F1F1F;
+    font-family:"Bangers";
+}
+
+ul li{
+    display: inline-block;
+    border: solid white 3px;
+    color: #FFCC00;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 30px;
+    text-align: center;
+    font-family: "Bangers";
+/*    margin-left:100px;*/
+}
+
+#btn1:hover,#btn2:hover, #btn3:hover, #btn4:hover, #btn5:hover, #arrow1:hover, #arrow2:hover  {
+    background-color: #FFCC00;
+    color: #1F1F1F;
+}
+
+h1 {
+    color: #FFCC00;
+    padding: none;
+    margin:none;
+    font-size: 25pt;
+    font-family: "Bangers";
+/*    text-align: center;*/
+    
+}
+
+h2 {
+    font-size: 25pt;
+    Margin-bottom:5px;
+}
+
+
+.wrapper {
+/*    display: none; */
+    width:1000px;
+    height:500px;
+    border: solid white 3px;
+    padding: 10px;
+    background-color: #B5FFDA;
+}
+
+#tabs-1 {
+    background-color: #FFCC00;
+    text-align: center;
+}
+
+
+
+#tabs-2 {
+    background-color: #FFCC00;
+     text-align: center;
+}
+
+#tabs-3 {
+    background-color:  #FFCC00;
+    text-align: center;
+}
+
+#tabs-4 {
+    background-color: #FFCC00;
+    text-align: center;
+}
+
+#tabs-5 {
+    background-color:  #FFCC00;
+    text-align: center;
+}
+
+
+
+#arrow1, #arrow2{
+   float: right;
+    margin: 2.5px;
+}
+
+
+#tabs img{
+   border: solid  #1F1F1F 3px;
+}
+
+p{
+    font-family: "Open Sans Condensed";
+}
